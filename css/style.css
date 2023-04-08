@@ -279,6 +279,8 @@ color: #FEFCF7;
   }
 
 .textcolor7{
+    display: grid;
+
     position: absolute;
 height: 72px;
 left: 1100px;
@@ -297,6 +299,8 @@ color: #FDD6BA;
 
 }
 .box2text8{
+    display: grid;
+
     position: absolute;
 height: 72px;
 left: 1100px;
@@ -315,27 +319,18 @@ color: #FEFCF7;
 
 }
 .psrent{
+    display: grid;
+
     display: block;
 }
-.how{
-    position: absolute;
-height: 15px;
-left: 800px;
 
-top: 1800px;
-
-font-family: 'Fraunces 9pt';
-font-style: normal;
-font-weight: 900;
-font-size: 40px;
-line-height: 48px;
-/* identical to box height, or 120% */
-
-
-color: #83888F;
+.niga{
+  position: absolute;
+display: inline-flex;
 
 }
 .tr{
+    display: grid;
     position: absolute;
 left: 1400px;
 right: 0.03%;
@@ -345,3 +340,799 @@ bottom: 11.6%;
 background: #0E8784;
 transform: matrix(1, 0, 0, -1, 0, 0);
 }
+.cifra{
+  display: inline-block;
+  position: absolute;
+width: 255px;
+height: 356px;
+left: 165px;
+top: 1830px;
+
+}
+.nol{
+  position: absolute;
+height: 32px;
+left: 100px;
+right: 85.78%;
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 33px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+
+color: #0E8784;
+
+
+}
+.odin{
+  position: absolute;
+  height: 32px;
+  left: 150px;
+top: 6px;
+ height: 32px;
+  width: 130px;
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  /* identical to box height, or 133% */
+  
+  
+  color: #333D4B;
+  
+  
+}
+.ol{
+  
+  position: absolute;
+  height: 32px;
+  left: 100px;
+
+  top: 40px;
+  
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 33px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+  
+  
+  color: #83888F;
+  
+}
+.dva{
+  position: absolute;
+  left: 150px;
+  top: 45px;
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 25px;
+  line-height: px;  
+  color: hsla(215, 19%, 25%, 0.438);
+  
+}
+.o{
+  position: absolute;
+  height: 32px;
+  left: 100px;
+  top: 90px;
+  
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 33px;  
+  
+  color: #83888F;
+  
+}
+.tri{
+  position: absolute;
+  height: 32px;
+  left: 150px;
+  top: 100px;
+  
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  
+  
+  color: #333D4B;
+}
+.oli{
+  position: absolute;
+height: 32px;
+left: 100px;
+top: 130px;
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 33px;
+
+
+
+color: #83888F;
+
+}
+.chetare{
+  position: absolute;
+height: 32px;
+left: 150px;
+top:130px;
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+
+color: #333D4B;
+}
+.nal{
+  position: absolute;
+height: 32px;
+left: 100px;
+top: 170px;
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 33px;
+
+
+color: #83888F;
+}
+.pat{
+  position: absolute;
+height: 32px;
+left: 150px;
+top: 180px;
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+
+color: #333D4B;
+
+}
+.how{
+  position: absolute;
+  left: 650px;
+top: 1800px;
+height: 48px;
+width: 632px;
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-size: 40px;
+
+
+color: #83888F;
+
+}
+.cards-wrapper{
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+}
+.cards{
+  position: absolute;
+width: 228px;
+height: 250px;
+left: 650px;
+top: 1930px;
+
+background: #F4F1EB;
+border-radius: 8px;
+}
+.cards2{
+  position: absolute;
+  width: 228px;
+  height: 250px;
+  left: 900px;
+  top: 1930px;
+  
+  background: #0E8784;
+  border-radius: 8px;
+}.cards3{
+  position: absolute;
+  width: 228px;
+  height: 250px;
+  left: 1150px;
+  top: 1930px;
+  
+  background: #FDD6BA;
+  border-radius: 8px;
+}
+.caps{
+  position: absolute;
+height: 32px;
+left: 20px;
+right: 42.44%;
+top: calc(50% - 32px/2 - 51px);
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+
+color: #333D4B;
+
+
+}
+.comp{
+  position: absolute;
+left: 20px;
+right: 20px;
+top: 41.79%;
+bottom: 0%;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #333D4B;
+
+}
+.fil{
+  
+position: absolute;
+height: 32px;
+left: 20px;
+right: 59.3%;
+top: calc(50% - 32px/2 - 51px);
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+
+color: #FFFFFF;
+
+
+}
+.for{
+  position: absolute;
+left: 20px;
+right: 0%;
+top: 41.79%;
+bottom: 0%;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #FEFCF7;
+
+
+}
+.esp{
+  position: absolute;
+height: 32px;
+left: 20px;
+right: 34.3%;
+top: calc(50% - 32px/2 - 51px);
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+
+color: #333D4B;
+
+}
+.dense{
+  position: absolute;
+left: 20px;
+right: 0%;
+top: 41.79%;
+bottom: 0%;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #333D4B;
+
+}
+.cards4{
+  position: absolute;
+  width: 228px;
+  height: 250px;
+  left: 650px;
+
+  top: 2400px;
+  
+  background: #F4F1EB;
+  border-radius: 8px;
+}
+
+.cards5{
+  position: absolute;
+  width: 228px;
+  height: 250px;
+  left: 900px;
+    top: 2400px;
+  
+  background: #0E8784;
+  border-radius: 8px;
+}
+
+.cards6{
+  position: absolute;
+  width: 228px;
+  height: 250px;
+  left: 1150px;
+    top: 2400px;
+  
+  background: #F4F1EB;
+  border-radius: 8px;
+}
+
+.cards7{
+  position: absolute;
+  width: 228px;
+  height: 250px;
+  left: 650px;
+  top: 2850px;
+  
+  background: #0E8784;
+  border-radius: 8px;
+}
+
+.cards8{
+  position: absolute;
+  width: 228px;
+  height: 250px;
+  left: 900px;
+  top: 2850px;
+  
+  background: #F4F1EB;
+  border-radius: 8px;
+}
+
+.cards9{
+  position: absolute;
+  width: 228px;
+  height: 250px;
+  left: 1150px;
+    top: 2850px;
+  
+  background: #F4F1EB;
+  border-radius: 8px;
+}
+
+.cards10{
+  position: absolute;
+  width: 228px;
+  height: 250px;
+  left: 650px;
+  top: 3300px;
+  
+  background: #F4F1EB;
+  border-radius: 8px;
+}
+
+.cards11{
+  position: absolute;
+  width: 228px;
+  height: 250px;
+  left: 900px;
+    top: 3300px;
+  
+  background: #F4F1EB;
+  border-radius: 8px;
+}
+  
+.cards12{
+  position: absolute;
+  width: 228px;
+  height: 250px;
+  left: 1150px;
+    top: 3300px;
+  
+  background: #0E8784;
+  border-radius: 8px;
+}
+.cards13{
+  position: absolute;
+  width: 228px;
+  height: 250px;
+  left: 650px;
+  top: 3800px;
+  
+  background: #0E8784;
+  border-radius: 8px;
+}
+.cards14{
+  position: absolute;
+  width: 228px;
+  height: 250px;
+  left: 900px; 
+   top: 3800px;
+  
+  background: #F4F1EB;
+  border-radius: 8px;
+}
+.cards15{
+  position: absolute;
+  width: 228px;
+  height: 250px;
+  left: 1150px;
+    top: 3800px;
+  
+  background: #F4F1EB;
+  border-radius: 8px;
+}
+.how1{
+  position: absolute;
+  height: 48px;
+  left: 655px;
+  right: 41.64%;
+  top: 2230px;
+  
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  /* identical to box height, or 120% */
+  
+  
+  color: #83888F;
+  
+}
+.how2{
+  position: absolute;
+  height: 48px;
+  left: 655px;
+  right: 24.38%;
+  top: 2700px;
+  
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  /* identical to box height, or 120% */
+  
+  
+  color: #83888F;
+  
+}
+.how3{
+  position: absolute;
+  height: 48px;
+  left: 655px;
+  top: 3170px;
+  
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  /* identical to box height, or 120% */
+  
+  
+  color: #83888F;
+  
+  
+}
+.how4{
+  position: absolute;
+  height: 48px;
+  left: 655px;
+  right: 16.71%;
+  top: 3650px;
+  
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  /* identical to box height, or 120% */
+  
+  
+  color: #83888F;
+}
+.caps1{
+  position: absolute;
+  height: 32px;
+  left: 0%;
+  right: 62.79%;
+  top: calc(50% - 32px/2 - 51px);
+  
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+  
+  
+  color: #FFFFFF;
+  
+}
+.comp1{
+  position: absolute;
+left: 0%;
+right: 0%;
+top: 41.79%;
+bottom: 0%;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #FEFCF7;
+
+}
+
+
+.fil1{
+  position: absolute;
+height: 32px;
+left: 0%;
+right: 61.63%;
+top: calc(50% - 32px/2 - 51px);
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+
+color: #333D4B;
+}
+.for1{
+  position: absolute;
+left: 0%;
+right: 0%;
+top: 41.79%;
+bottom: 0%;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #333D4B;
+
+}
+.fil2{
+  position: absolute;
+height: 32px;
+left: 0%;
+right: 59.3%;
+top: calc(50% - 32px/2 - 51px);
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+
+color: #333D4B;
+
+}
+.for2{
+  position: absolute;
+left: 0%;
+right: 0%;
+top: 41.79%;
+bottom: 0%;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #333D4B;
+
+}
+.esp1{
+  position: absolute;
+  height: 32px;
+  left: 0%;
+  right: 33.14%;
+  top: calc(50% - 32px/2 - 51px);
+  
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+  
+  
+  color: #FFFFFF;
+  
+}
+.dense2{
+  position: absolute;
+left: 0%;
+right: 0%;
+top: 41.79%;
+bottom: 0%;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #FEFCF7;
+
+}
+.fil4{
+
+  position: absolute;
+  height: 32px;
+  left: 0%;
+  right: 0%;
+  top: calc(50% - 32px/2 - 51px);
+  
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+  
+  
+  color: #333D4B;
+  
+}
+.for4{
+  position: absolute;
+  left: 0%;
+  right: 1.71%;
+  top: 41.79%;
+  bottom: 0%;
+  
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  /* or 162% */
+  
+  
+  color: #333D4B;
+  
+
+}
+.esp5{
+  position: absolute;
+height: 32px;
+left: 0%;
+right: 6.98%;
+top: calc(50% - 32px/2 - 51px);
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+
+color: #333D4B;
+}
+.dense5{
+  position: absolute;
+left: 0%;
+right: 0%;
+top: 41.79%;
+bottom: 0%;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #333D4B;
+
+}
+.caps7{
+  position: absolute;
+height: 32px;
+left: 0%;
+right: 18.02%;
+top: calc(50% - 32px/2 - 51px);
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+
+color: #FFFFFF;
+
+}
+
+.comp7{
+  position: absolute;
+left: 0%;
+right: 0%;
+top: 41.79%;
+bottom: 0%;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #FEFCF7;
+
+
+}
+.hero-btn{
+  height: 56px;
+  width: 217px;
+  left: 1150px;
+  top: 4100px;
+  background-color:#66D2CF;
+
+border: none;
+  position: absolute;
+}
+.hero-btn:hover{
+  background: #0aceff;
+  cursor: pointer;
+}
+.hero-btn:focus{
+  background-color: #0d4c94;}
